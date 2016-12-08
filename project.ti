@@ -1,0 +1,11 @@
+class="Library"
+name="libteste"
+lang="@Language:cpp"
+
+Lib{
+	name="teste"
+	Code{name="src/teste.cpp"}
+	Header{name="includes/teste.hpp"}
+}
+
+
